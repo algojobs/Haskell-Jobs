@@ -1,11 +1,22 @@
 # Haskell Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 01/02/2025
+This data is updated weekly, with filled postings removed. Last updated: 01/14/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Haskell Jobs](https://algojobs.io/jobs/haskell)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 01/14/2025 | [Software Engineer - Haskell](https://algojobs.io/jobs/2816745) | [Duetto Research](https://algojobs.io/company/duettoresearch/) | N/A | USA |
+| 01/13/2025 | [Clojure Developer](https://algojobs.io/jobs/2818114) | [AssureSoft - Careers](https://algojobs.io/company/assuresoften/) | N/A | Peru (Remote) |
+| 01/13/2025 | [Clojure Developer](https://algojobs.io/jobs/2818110) | [AssureSoft - Careers](https://algojobs.io/company/assuresoften/) | N/A | Paraguay (Remote) |
+| 01/13/2025 | [Clojure Developer](https://algojobs.io/jobs/2818116) | [AssureSoft - Careers](https://algojobs.io/company/assuresoften/) | N/A | Brazil (Remote) |
+| 01/13/2025 | [Clojure Developer](https://algojobs.io/jobs/2818117) | [AssureSoft - Careers](https://algojobs.io/company/assuresoften/) | N/A | Colombia (Remote) |
+| 01/13/2025 | [Clojure Developer](https://algojobs.io/jobs/2818113) | [AssureSoft - Careers](https://algojobs.io/company/assuresoften/) | N/A | Bolivia (Remote) |
+| 01/13/2025 | [Software Engineer - Functional](https://algojobs.io/jobs/2815220) | [KUBRA](https://algojobs.io/company/kubra/) | N/A | Mississauga, ON / Dallas, TX / Arizona (Hybrid) |
+| 01/08/2025 | [Software Engineer - Stability](https://algojobs.io/jobs/2771839) | [Mercury](https://algojobs.io/company/mercury/) | $149K - $158K | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States |
+| 01/08/2025 | [Senior Software Engineer – AI Symbolic Reasoning Systems](https://algojobs.io/jobs/2771421) | [Symbolica AI](https://algojobs.io/company/symbolica/) | N/A | London, UK |
+| 01/07/2025 | [Software Engineer - SDK](https://algojobs.io/jobs/2756591) | [DFINITY](https://algojobs.io/company/dfinity/) | $175K - $235K | San Francisco |
+| 01/03/2025 | [Software Engineer (Haskell) Compiler - Plutus Core - IOE: Cardano](https://algojobs.io/jobs/2731728) | [IO Global](https://algojobs.io/company/io-global/) | N/A | United Kingdom (Remote) |
 | 12/17/2024 | [Intern Software Engineer - Summer 2025](https://algojobs.io/jobs/2613368) | [Internships with Zinnia](https://algojobs.io/company/zinniaintern/) | N/A | Bridgewater, NJ |
 | 12/16/2024 | [Senior Software Engineer, Data Integration (Haskell)](https://algojobs.io/jobs/2601043) | [HubSpot](https://algojobs.io/company/hubspotjobs/) | N/A | Flex - Ghent, Belgium |
 | 12/16/2024 | [Senior Software Engineer, Data Integration (Haskell)](https://algojobs.io/jobs/2601039) | [HubSpot](https://algojobs.io/company/hubspotjobs/) | N/A | Ghent, Belgium |
@@ -15,4 +26,3 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 12/05/2024 | [Embedded Software Engineer, Intelligence Systems](https://algojobs.io/jobs/2508208) | [Anduril Industries](https://algojobs.io/company/andurilindustries/) | $138K - $252K | Reston, Virginia, United States |
 | 12/04/2024 | [Scala Developer](https://algojobs.io/jobs/2493012) | [Riskified](https://algojobs.io/company/riskified/) | N/A | Tel Aviv |
 | 12/02/2024 | [Senior Software Engineer - Platform](https://algojobs.io/jobs/2461979) | [Alpaca ](https://algojobs.io/company/alpaca/) | N/A | Global Anywhere - Eastern or European Time Zones |
-| 11/05/2024 | [Embedded Linux Software Engineer](https://algojobs.io/jobs/2141338) | [Anduril Industries](https://algojobs.io/company/andurilindustries/) | $160K - $240K | Costa Mesa, California, United States |
