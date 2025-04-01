@@ -1,12 +1,11 @@
 # Haskell Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 03/29/2025
+This data is updated weekly, with filled postings removed. Last updated: 04/01/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Haskell Jobs](https://algojobs.io/jobs/haskell)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
-| 03/28/2025 | [Full Stack Developer - Remote](https://algojobs.io/jobs/3621762) | [Shields Health Solutions](https://algojobs.io/company/shieldshealthsolutions/) | N/A | Boston, MA (Remote) |
 | 03/26/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3595408) | [FOSSA](https://algojobs.io/company/fossainc/) | $120K - $200K | Canada - Remote |
 | 03/26/2025 | [Lead Software Engineer, EW](https://algojobs.io/jobs/3584578) | [Anduril Industries](https://algojobs.io/company/andurilindustries/) | $196K - $249K | Costa Mesa, California, United States |
 | 03/26/2025 | [Software Engineering Lead - Lace](https://algojobs.io/jobs/3592302) | [IO Global](https://algojobs.io/company/io-global/) | N/A | United Kingdom (Remote) |
@@ -24,8 +23,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 03/12/2025 | [Software Engineer II B - GBS IND - R](https://algojobs.io/jobs/3455354) | [Bank of America](https://algojobs.io/company/ghr/) | N/A | Mumbai, India |
 | 02/24/2025 | [Software Engineer – General (mid career)](https://algojobs.io/jobs/3244554) | [northwoodspace](https://algojobs.io/company/northwoodspace/) | N/A | Los Angeles, CA |
 | 02/22/2025 | [Software Engineer - New Grad](https://algojobs.io/jobs/3232524) | [Pylon](https://algojobs.io/company/pylon/) | N/A | Menlo Park (in office) |
-| 02/21/2025 | [Full Stack Developer](https://algojobs.io/jobs/3231952) | [Shields Health Solutions](https://algojobs.io/company/shieldshealthsolutions/) | N/A | Remote |
 | 02/21/2025 | [Intern Software Engineer](https://algojobs.io/jobs/3229997) | [Internships with Zinnia](https://algojobs.io/company/zinniaintern/) | N/A | Johns Creek, GA |
 | 02/12/2025 | [Confirmed Fullstack Engineer](https://algojobs.io/jobs/3309854) | [Aletiq](https://algojobs.io/company/aletiq/) | N/A | Paris Office |
 | 02/11/2025 | [Senior Fullstack Engineer (Frontend focused)](https://algojobs.io/jobs/3309841) | [Aletiq](https://algojobs.io/company/aletiq/) | N/A | Paris Office |
-| 01/28/2025 | [Mission Software Engineer, Edge Compute & Communications (ECC)](https://algojobs.io/jobs/2976337) | [Anduril Industries](https://algojobs.io/company/andurilindustries/) | $138K - $252K | Costa Mesa, California, United States |
