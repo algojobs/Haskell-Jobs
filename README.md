@@ -1,11 +1,13 @@
 # Haskell Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 04/23/2025
+This data is updated weekly, with filled postings removed. Last updated: 04/29/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Haskell Jobs](https://algojobs.io/jobs/haskell)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 04/25/2025 | [Software Engineer (Haskell) - Djed - IOE: Cardano](https://algojobs.io/jobs/3911359) | [IO Global](https://algojobs.io/company/io-global/) | N/A | United Kingdom (Remote) |
+| 04/24/2025 | [Sr Software Engineer - Compute Business](https://algojobs.io/jobs/3893326) | [Northwestern Mutual](https://algojobs.io/company/northwesternmutual/) | N/A | New York, NY Corporate / Milwaukee, WI Corporate |
 | 04/21/2025 | [Senior Backend Engineer - Product](https://algojobs.io/jobs/3850470) | [Mercury](https://algojobs.io/company/mercury/) | $166K - $208K | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States |
 | 04/18/2025 | [Staff Engineer - Backend](https://algojobs.io/jobs/3841014) | [northwoodspace](https://algojobs.io/company/northwoodspace/) | N/A | Los Angeles, CA |
 | 04/17/2025 | [Software Engineer (Haskell) - Hydra - IOE: Cardano](https://algojobs.io/jobs/3825687) | [IO Global](https://algojobs.io/company/io-global/) | N/A | United Kingdom (Remote) |
@@ -21,5 +23,4 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 03/14/2025 | [Scala Software Engineer (m/f/d) - Fleet Coordination](https://algojobs.io/jobs/3480378) | [MOIA](https://algojobs.io/company/moia/) | N/A | Hamburg, Germany |
 | 03/14/2025 | [Scala Software Engineer (m/f/d) - Fleet Coordination](https://algojobs.io/jobs/3480375) | [MOIA](https://algojobs.io/company/moia/) | N/A | Berlin, Germany |
 | 03/13/2025 | [Founding Software Engineer – GPU & Compilers (relocation to London)](https://algojobs.io/jobs/3466862) | [Symbolica AI](https://algojobs.io/company/symbolica/) | N/A | Amsterdam, Netherlands |
-| 03/13/2025 | [Founding Software Engineer – GPU & Compilers (relocation to London)](https://algojobs.io/jobs/3466867) | [Symbolica AI](https://algojobs.io/company/symbolica/) | N/A | Warsaw, Poland |
-| 03/12/2025 | [Developer Relations Engineer](https://algojobs.io/jobs/3452948) | [DFINITY](https://algojobs.io/company/dfinity/) | $150K - $235K | San Francisco |
+| 03/13/2025 | [Founding Software Engineer – GPU & Compilers (relocation to London)](https://algojobs.io/jobs/3466878) | [Symbolica AI](https://algojobs.io/company/symbolica/) | N/A | Paris, France |
